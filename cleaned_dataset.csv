@@ -1,0 +1,7 @@
+customer_id,name,gender,age,country,signup_date,amount_spent
+101.0,Alice,Female,29.0,India,2021-03-05,1200.0
+102.0,bob,Male,28.0,India,2020-05-04,850.0
+103.0,CHARLIE,Male,40.0,India,2019-11-13,1000.0
+103.0,CHARLIE,,28.0,United States,2020-07-01,850.0
+,,Female,27.0,,2021-03-15,500.5
+105.0,Eve,Female,22.0,,2021-06-20,600.0

@@ -1,0 +1,7 @@
+Customer ID,Name ,Gender,Age,Country,Signup Date,Amount Spent
+101.0,Alice ,F,29,India,2021-03-05,"$1,200.00"
+102.0,bob ,male,,india,05/04/2020,850
+103.0,CHARLIE,M,40,IN,13-11-2019,"1,000"
+103.0,CHARLIE,,thirty,usa,2020/07/01,N/A
+,,Female,27,United States,15 Mar 2021,500.50
+105.0,Eve ,f ,22,,2021.06.20,₹600.00

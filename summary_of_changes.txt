@@ -1,0 +1,12 @@
+
+SUMMARY OF CHANGES
+-------------------
+1. Removed duplicates.
+2. Standardized column names (lowercase + no spaces).
+3. Trimmed extra spaces in text columns.
+4. Fixed 'gender' values (male/female).
+5. Converted 'age' to integers, filled missing with median.
+6. Cleaned country names (India, United States).
+7. Parsed dates to proper datetime format.
+8. Cleaned amount_spent, removed currency symbols.
+9. Replaced missing values.
